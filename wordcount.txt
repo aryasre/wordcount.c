@@ -1,0 +1,2 @@
+A thread is the smallest unit of execution inside a process. A thread is a lightweight execution path within that process.
+A process can have one thread (single-threaded) or many threads (multi-threaded) running in parallel.
